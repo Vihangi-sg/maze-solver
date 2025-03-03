@@ -1,5 +1,5 @@
 # maze-solver 
-##Development of a maze solver robot to navigate a provided maze without collisions and reach a specified goal.
+## Development of a maze solver robot to navigate a provided maze without collisions and reach a specified goal.
 
 1. Hardware Implementation
 
