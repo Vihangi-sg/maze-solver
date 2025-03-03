@@ -13,14 +13,19 @@
 
 2. Microcontroller Program
 
-  o Basic wall following algorithm to navigate along the path.
-  o A fine tuned PID controller to ensure a straight forward movement.
-  o Depth-First Search algorithm to navigate and solve the maze.
+o Basic wall following algorithm to navigate along the path.
+  
+o A fine tuned PID controller to ensure a straight forward movement.
+  
+o Depth-First Search algorithm to navigate and solve the maze.
 
 3. Robot Features
 
   o Successfully follow walls without significant errors.
+
   o Accurately detect and execute turns at maze corners.
+
   o Operates autonomously without human intervention and is stable.
+
   o Find the optimal path to the finish after multiple attempts.
   
